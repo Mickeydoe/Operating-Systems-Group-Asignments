@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ##### **###### *******Operating Systems Group Asignments*****`****
+=======
+**###### **`*****Operating Systems Group Asignments*****`****
+>>>>>>> OpearingSystems
 
 This is our Operating Systems assignemnts by THE GROUP CONSISTING OF: 
 
