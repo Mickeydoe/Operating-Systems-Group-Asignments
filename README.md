@@ -1,20 +1,23 @@
-Operating Systems Group Asignments
+##### **###### *******Operating Systems Group Asignments*****`****
 
 This is our Operating Systems assignemnts by THE GROUP CONSISTING OF: 
+
 Michael Caleb Danquah-219CS01000068
+
 Prince Odom-219CS01000179
+
 Edinam Quist-219IT01000061
 
-INFORMATION
+`**INFORMATION**`
 
-This assignment consists of various memory management techniques such as worst fit,best fit,Paging,FCFS disk scheduling,
+_This assignment consists of various memory management techniques such as worst fit,best fit,Paging,FCFS disk scheduling,
 SJF cpu scheduling,priority cpu scheduling technique and a few more.
 This assignment makes use of the selection technoques which allows the user to choose the type of technique he or she wants to implement and see
 how it works.
 Thus a choicing system was established to make this possible for the user.
-This program was implemented in Java.
+This program was implemented in Java._
 
-The Management Techniques:
+**The Management Techniques:**
 
         1.Multiprogramming with fixed variables
         2.Multiprogramming with various variables
