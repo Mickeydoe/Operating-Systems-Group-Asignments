@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 ##### **###### *******Operating Systems Group Asignments*****`****
 =======
-**###### **`*****Operating Systems Group Asignments*****`****
->>>>>>> OpearingSystems
+**###### **`*****Operating Systems Group Asignments*****`***
+Opearting Systems
 
 This is our Operating Systems assignemnts by THE GROUP CONSISTING OF: 
 
@@ -38,3 +38,11 @@ This program was implemented in Java._
         13.Scan Disk Scheduling ALgorithm
         14.C-Scan Disk Scheduling ALgorithm
         15.Bankers Algorithm for deadlock avoidance
+        
+***INSTRUCTIONS FOR OPENING FILE***
+1.Open preferred IDE you want to run with.
+2.Click on file in IDE and click on open
+3.Download the file on you device.
+4.Surf to the Location where you stored the downloaded file.
+5.Open the folder and click open the src file in the downloaded file
+6.Double click the executable to open in your preferref IDE and run. 
