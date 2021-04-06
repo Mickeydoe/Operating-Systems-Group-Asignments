@@ -41,8 +41,13 @@ This program was implemented in Java._
         
 ***INSTRUCTIONS FOR OPENING FILE***
 1.Open preferred IDE you want to run with.
-2.Click on file in IDE and click on open
+
+2.Click on file in IDE and click on ope
+
 3.Download the file on you device.
+
 4.Surf to the Location where you stored the downloaded file.
+
 5.Open the folder and click open the src file in the downloaded file
+
 6.Double click the executable to open in your preferref IDE and run. 
